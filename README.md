@@ -43,12 +43,19 @@ I bridge the gap between **Naval Architecture** and **Artificial Intelligence**.
   <img src="https://img.shields.io/badge/n8n-FF6D5A?style=for-the-badge&logo=n8n&logoColor=white" />
 </p>
 
-### ⚙️ My Engineering & ML Pipeline
+### 🟩 The Green Graph Challenge
+**Goal:** Fill the contribution graph by pushing code consistently. Whether it's refining PINN models, writing CFD automation scripts, or developing PyQt applications—every green square is a step forward.
 
-```mermaid
-graph TD;
-    A[3D Hull Modeling<br>Rhinoceros/Maxsurf] --> B(Meshing & Setup);
-    B --> C{CFD Simulation<br>OpenFOAM/Ansys};
-    C -->|Hydrodynamic Data| D[Data Processing<br>NumPy/SciPy/Pandas];
-    D --> E((Physics-Informed<br>Neural Networks<br>PyTorch));
-    E --> F[Optimization &<br>Decision Support];
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=AbdelrhmanAElsoot&show_icons=true&theme=nord&hide_border=true&hide=stars" width="48%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=AbdelrhmanAElsoot&theme=nord&hide_border=true" width="48%" />
+</div>
+
+<br/>
+
+### 📫 Let's Connect
+<p>
+  <a href="https://linkedin.com/in/abdelrhman-a-elsoot" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+</p>
