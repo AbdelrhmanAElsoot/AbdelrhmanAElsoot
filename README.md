@@ -43,8 +43,6 @@ I bridge the gap between **Naval Architecture** and **Artificial Intelligence**.
   <img src="https://img.shields.io/badge/n8n-FF6D5A?style=for-the-badge&logo=n8n&logoColor=white" />
 </p>
 
-### 🟩 The Green Graph Challenge
-**Goal:** Fill the contribution graph by pushing code consistently. Whether it's refining PINN models, writing CFD automation scripts, or developing PyQt applications—every green square is a step forward.
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=AbdelrhmanAElsoot&show_icons=true&theme=nord&hide_border=true&hide=stars" width="48%" />
