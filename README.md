@@ -57,3 +57,5 @@ I bridge the gap between **Naval Architecture** and **Artificial Intelligence**.
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
 </p>
+
+[![AI Coding Activity on UsageAtlas](https://usageatlas.com/api/cards/abdelrhman/heatmap.svg?theme=light)](https://usageatlas.com/@abdelrhman)
