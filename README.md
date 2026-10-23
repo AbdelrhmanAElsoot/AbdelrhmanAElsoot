@@ -58,4 +58,4 @@ I bridge the gap between **Naval Architecture** and **Artificial Intelligence**.
   </a>
 </p>
 
-[![AI Coding Activity on UsageAtlas](https://usageatlas.com/api/cards/abdelrhman/heatmap.svg?theme=light)](https://usageatlas.com/@abdelrhman)
+[![AI Coding Activity on UsageAtlas](https://usageatlas.com/api/cards/elsoot/heatmap.svg?theme=light)](https://usageatlas.com/@elsoot)
